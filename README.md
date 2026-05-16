@@ -7,7 +7,7 @@
 
 ## 시스템 요구사항
 - Windows 10/11 (x64)
-- Microsoft Edge (WebView2 런타임 포함)
+- Microsoft Edge ((https://www.microsoft.com/ko-kr/edge/download?form=MA13FJ)
 
 ##신고는 (https://arca.live/b/tekken7banned)
 이 채널에서 신고 부탁드립니다.
